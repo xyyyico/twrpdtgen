@@ -1,11 +1,11 @@
-# To get started with Dependabot version updates, you'll need to specify which
-# package ecosystems to update and where the package manifests are located.
-# Please see the documentation for all configuration options:
-# https://help.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
+#若要开始Dependabot版本更新，您需要指定
+间隔
+#请参阅所有配置选项的文档：
+#https://help.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
 
-version: 2
-updates:
-  - package-ecosystem: "pip" # See documentation for possible values
-    directory: "/" # Location of package manifests
-    schedule:
-      interval: "daily"
+版本：2: 2
+更新：:
+-包装生态系统：“pip”#有关可能的值，请参见文件包装生态系统: "pip" #有关可能的值，请参阅文档
+目录："/"#包清单位置: "/" #包清单位置
+计划表：:
+间隔：“每日”: "每日"
